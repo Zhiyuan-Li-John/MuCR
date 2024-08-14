@@ -12,5 +12,12 @@
 <a href='https://'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
 </div>
 
+<p align="center">
+  	<b>
+    [<a href="https://">ArXiv</a>] | [<a href="https://">🤗HuggingFace</a>] | [<a href="https://">Website</a>]
+    </b>
+    <br />
+</p>
+
 MuCR is proposed to challenge VLLMs to infer semantic cause-and-effect relationships when solely relying on visual cues such as action, appearance, clothing, and environment.
 
