@@ -71,3 +71,10 @@ Each line of file in `jsonl` must meet the following format:
 }
 ```
 
+## ✒Reference
+If you find this project useful for your research, please consider citing the following paper:
+
+```
+@inproceedings{
+}
+```
