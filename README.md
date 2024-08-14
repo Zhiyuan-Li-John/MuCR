@@ -50,4 +50,10 @@ MuCR is proposed to challenge VLLMs to infer semantic cause-and-effect relations
 ## Download
 
 You can directly download the model from [Huggingface](https://).
+or load dataset from Huggingface as follows:
+```python 
+import datasets
+dataset = datasets.load_dataset("data/")
+```
+
 
