@@ -26,7 +26,7 @@ MuCR is proposed to challenge VLLMs to infer semantic cause-and-effect relations
 
 ## Release
 - [2024/08/15] 🔥 We release the [complete dataset](https://).
-- [2024/08/15] 🔥 We release the [technical report](https://).
+- [2024/08/15] 🔥 We release the [arxiv paper](https://).
 - [2024/08/15] 🔥 We launch the [project page](https://).
 
 ## Demos
