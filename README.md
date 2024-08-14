@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"> <img src="image/unicorn.svg" alt="SVG Image"> Multimodal Causal Reasoning Benchmark: Challenging Vision Large Language Models to Infer Causal Links Between Siamese Images</h1>
+<h1 align="center"> <img src="image/hobby.png" alt="PNG Image" width="25" height="25"> Multimodal Causal Reasoning Benchmark: Challenging Vision Large Language Models to Infer Causal Links Between Siamese Images</h1>
 </p>
 
 <div align="center">
