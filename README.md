@@ -55,5 +55,19 @@ or load dataset from Huggingface as follows:
 import datasets
 dataset = datasets.load_dataset("data/")
 ```
-
+## Dataset Form
+Each line of file in `jsonl` must meet the following format:
+```json
+{
+  "id": "ID",
+  "caption_0": "...",
+  "caption_1": "...",
+  "link_id": "[a,b,c]",
+  "cue": "cue",
+  "false_cue": ["false_cue1","false_cue2","flase_cue3"],
+  "style": "style",
+  "label": "label",
+  "causal_reason": ["Explanation_1", "Explanation_2", "Explanation_3"]
+}
+```
 
