@@ -23,3 +23,8 @@
 MuCR is proposed to challenge VLLMs to infer semantic cause-and-effect relationships when solely relying on visual cues such as action, appearance, clothing, and environment.
 
 <img src='images/picture3.png'>
+
+## Release
+- [2024/08/22] 🔥 We release the [complete dataset](https://).
+- [2024/08/15] 🔥 We release the [technical report](https://).
+- [2024/08/15] 🔥 We launch the [project page](https://).
