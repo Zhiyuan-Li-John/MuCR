@@ -37,5 +37,13 @@ MuCR is proposed to challenge VLLMs to infer semantic cause-and-effect relations
   <img src="images/Picture6.png">
 </p>
 
-### Details
+### Detailed Examples
+
+<p align="center">
+  <img src="images/human1.png" alt="Image 1" style="display: inline-block;">
+  <img src="images/animal3.png" alt="Image 2" style="display: inline-block;">
+  <img src="images/plant4.png" alt="Image 3" style="display: inline-block;">
+  <img src="images/character5.png" alt="Image 4" style="display: inline-block;">
+  <img src="images/mixture6.png" alt="Image 6" style="display: inline-block;">
+</p>
 
