@@ -6,7 +6,7 @@
 
 [**Zhiyuan Li**](https://github.com/Zhiyuan-Li-John)<sup></sup> · [**Heng Wang**](https://scholar.google.com.au/citations?user=jPj4ViQAAAAJ&hl=en&oi=ao)<sup></sup> · [**Dongnan Liu**](https://scholar.google.com.au/citations?user=JZzb8XUAAAAJ&hl=en&oi=ao)<sup></sup> · [**Chaoyi Zhang**](https://scholar.google.com.au/citations?user=GSM6eT0AAAAJ&hl=en&oi=ao)<sup></sup> · [**Ao Ma**](https://) · [**Jieting Long**](https://) · [**Weidong Cai**](https://scholar.google.com.au/citations?user=N8qTc2AAAAAJ&hl=en&oi=ao)<sup></sup>
 
-<sup>1</sup>University of Sydney
+<sup>1</sup>The University of Sydney
 
 <a href='https://'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 <a href='https://'><img src='https://img.shields.io/badge/Arxiv-Paper-red'></a>
