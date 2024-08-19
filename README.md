@@ -81,6 +81,10 @@ Each line of file in `jsonl` must meet the following format:
 If you find this project useful for your research, please consider citing the following paper:
 
 ```
-@inproceedings{
+@article{li2024multimodal,
+  title={Multimodal Causal Reasoning Benchmark: Challenging Vision Large Language Models to Infer Causal Links Between Siamese Images},
+  author={Li, Zhiyuan and Wang, Heng and Liu, Dongnan and Zhang, Chaoyi and Ma, Ao and Long, Jieting and Cai, Weidong},
+  journal={arXiv preprint arXiv:2408.08105},
+  year={2024}
 }
 ```
