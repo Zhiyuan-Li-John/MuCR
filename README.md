@@ -9,13 +9,13 @@
 School of Computer Science, The University of Sydney
 
 <a href='https://'><img src='https://img.shields.io/badge/Project-Page-green'></a>
-<a href='https://'><img src='https://img.shields.io/badge/Arxiv-Paper-red'></a>
+<a href='https://arxiv.org/pdf/2408.08105'><img src='https://img.shields.io/badge/Arxiv-Paper-red'></a>
 <a href='https://'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
 </div>
 
 <p align="center">
   	<b>
-    [<a href="https://">ArXiv</a>] | [<a href="https://">🤗HuggingFace</a>] | [<a href="https://">Website</a>]
+    [<a href="https://arxiv.org/pdf/2408.08105">ArXiv</a>] | [<a href="https://">🤗HuggingFace</a>] | [<a href="https://">Website</a>]
     </b>
     <br />
 </p>
