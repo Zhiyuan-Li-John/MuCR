@@ -73,7 +73,9 @@ Each line of file in `jsonl` must meet the following format:
   "false_cue": ["false_cue1","false_cue2","flase_cue3"],
   "style": "style",
   "label": "label",
-  "causal_reason": ["Explanation_1", "Explanation_2", "Explanation_3"]
+  "causal_reason": ["Explanation_1", "Explanation_2", "Explanation_3"],
+  "image_0": cause image,
+  "image_1": effect image
 }
 ```
 
