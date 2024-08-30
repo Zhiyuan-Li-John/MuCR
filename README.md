@@ -15,7 +15,7 @@ School of Computer Science, The University of Sydney
 
 <p align="center">
   	<b>
-    [<a href="https://arxiv.org/pdf/2408.08105">ArXiv</a>] | [<a href="https://">🤗HuggingFace</a>] | [<a href="https://">Website</a>]
+    [<a href="https://arxiv.org/abs/2408.08105">ArXiv</a>] | [<a href="https://huggingface.co/datasets/Pinkygin/MuCR">🤗HuggingFace</a>] | [<a href="https://">Website</a>]
     </b>
     <br />
 </p>
@@ -25,8 +25,8 @@ MuCR is proposed to challenge VLLMs to infer semantic cause-and-effect relations
 <img src='images/picture3.png'>
 
 ## Release
-- [2024/08/15] 🔥 We release the [complete dataset](https://).
-- [2024/08/15] 🔥 We release the [arxiv paper](https://).
+- [2024/08/15] 🔥 We release the [complete dataset](https://huggingface.co/datasets/Pinkygin/MuCR).
+- [2024/08/15] 🔥 We release the [arxiv paper](https://arxiv.org/abs/2408.08105).
 - [2024/08/15] 🔥 We launch the [project page](https://).
 
 ## Demos
