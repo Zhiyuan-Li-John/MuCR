@@ -74,8 +74,8 @@ Each line of file in `jsonl` must meet the following format:
   "style": "style",
   "label": "label",
   "causal_reason": ["Explanation_1", "Explanation_2", "Explanation_3"],
-  "image_0": cause image,
-  "image_1": effect image
+  "image_0": "cause image",
+  "image_1": "effect image"
 }
 ```
 
