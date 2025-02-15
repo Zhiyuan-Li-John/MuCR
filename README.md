@@ -28,11 +28,10 @@ Multimodal Large Language Models (MLLMs) have showcased exceptional Chain-of-Tho
 - [2025/02/15] 🔥 We release the [test dataset](https://huggingface.co/datasets/Pinkygin/MuCR).
 - [2025/02/15] 🔥 We release the [arxiv paper](https://arxiv.org/abs/2408.08105).
 - [2025/02/15] 🔥 We launch the [project page](https://mucr-benchmark.github.io/).
-- [2025/02/15] 🔥 The complete dataset will come soon.
 
 ## Demos
 
-### Overview
+### Data Creation
 
 <p align="center">
   <img src="images/Picture6.png">
