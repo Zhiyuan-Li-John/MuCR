@@ -29,15 +29,15 @@ Multimodal Large Language Models (MLLMs) have showcased exceptional Chain-of-Tho
 - [2025/02/15] 🔥 We release the [arxiv paper](https://arxiv.org/abs/2408.08105).
 - [2025/02/15] 🔥 We launch the [project page](https://mucr-benchmark.github.io/).
 
-## Demos
 
-### Data Creation
+
+## Data Creation
 
 <p align="center">
-  <img src="images/Picture6.png">
+  <img src="images/picture3.png">
 </p>
 
-### Model Performance
+## Model Performance
 
 <p align="center">
   <img src="images/performance.png">
