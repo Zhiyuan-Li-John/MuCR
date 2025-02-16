@@ -40,7 +40,7 @@ Multimodal Large Language Models (MLLMs) have showcased exceptional Chain-of-Tho
 ## Model Performance
 
 <p align="center">
-  <img src="images/performance.png">
+  <img src="images/Picture8.png">
 </p>
 
 ## Detailed Examples
