@@ -59,7 +59,7 @@ You can directly download the model from [Huggingface](https://).
 or load dataset from Huggingface as follows:
 ```python 
 import datasets
-dataset = datasets.load_dataset("data/")
+dataset = datasets.load_dataset("Pinkygin/MuCR")
 ```
 
 Way 2:
