@@ -54,26 +54,29 @@ Multimodal Large Language Models (MLLMs) have showcased exceptional Chain-of-Tho
 </p>
 
 ## Download
-
+Way 1:
 You can directly download the model from [Huggingface](https://).
 or load dataset from Huggingface as follows:
 ```python 
 import datasets
 dataset = datasets.load_dataset("data/")
 ```
+
+Way 2:
+Directly download from google drive.
+The Test files link: https://drive.google.com/file/d/1Ws6P8p-SL1DaFSM4rvMaoh_8e7Emgnfm/view?usp=sharing
 ## Dataset Form
 Each line of file in `jsonl` must meet the following format:
 ```json
 {
   "id": "ID",
-  "caption_0": "...",
-  "caption_1": "...",
-  "link_id": "[a,b,c]",
+  "style": "image style",
+  "cause": "...",
+  "effect": "...",
   "cue": "cue",
   "false_cue": ["false_cue1","false_cue2","flase_cue3"],
-  "style": "style",
   "label": "label",
-  "causal_reason": ["Explanation_1", "Explanation_2", "Explanation_3"],
+  "causal_reason": "Explanation_1",
   "image_0": "cause image",
   "image_1": "effect image"
 }
